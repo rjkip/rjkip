@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a freelance web developer available for work.
+
+[![Reinier Kip, Freelance Web Developer](https://raw.githubusercontent.com/rjkip/resume/refs/heads/main/resume.webp)](https://github.com/rjkip/resume/releases/latest/download/Reinier.Kip.Freelance.Web.Developer.pdf)
+
 <!--
 **rjkip/rjkip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
